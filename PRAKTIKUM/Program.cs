@@ -14,7 +14,7 @@ namespace PRAKTIKUM_GRAFIKA_KOMP
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new prak2());
+            Application.Run(new tugas1());
         }
     }
 }
